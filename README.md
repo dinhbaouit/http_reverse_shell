@@ -1,4 +1,3 @@
-# http_reverse_shell
 # HTTP Reverse Shell
 
 Sửa ATTACKER_IP bằng IP Attacker
